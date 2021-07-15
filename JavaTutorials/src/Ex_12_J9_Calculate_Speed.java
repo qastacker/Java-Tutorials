@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class J9_Calculate_Speed {
+public class Ex_12_J9_Calculate_Speed {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
