@@ -1,6 +1,6 @@
 
 
-public class J7_DaysInMonth_and_Ques{
+public class Ex_10_J7_DaysInMonth_and_Ques{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
