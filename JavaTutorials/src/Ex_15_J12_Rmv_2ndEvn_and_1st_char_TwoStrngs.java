@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class J12_Rmv_2ndEvn_and_1st_char_TwoStrngs {
+public class Ex_15_J12_Rmv_2ndEvn_and_1st_char_TwoStrngs {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
