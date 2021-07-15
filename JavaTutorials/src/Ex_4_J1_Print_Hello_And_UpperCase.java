@@ -1,5 +1,5 @@
 
-public class J1_Print_Hello_And_UpperCase{
+public class Ex_4_J1_Print_Hello_And_UpperCase{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
