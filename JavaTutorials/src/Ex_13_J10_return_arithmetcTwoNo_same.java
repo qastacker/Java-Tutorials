@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class J10_return_arithmetcTwoNo_same {
+public class Ex_13_J10_return_arithmetcTwoNo_same {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
