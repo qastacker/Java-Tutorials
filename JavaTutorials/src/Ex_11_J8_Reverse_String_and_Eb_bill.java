@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class J8_Reverse_String_and_Eb_bill {
+public class Ex_11_J8_Reverse_String_and_Eb_bill {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
