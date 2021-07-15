@@ -1,5 +1,5 @@
 
-public class J4_Output {
+public class Ex_7_J4_Output {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
