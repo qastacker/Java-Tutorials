@@ -1,5 +1,5 @@
 
-public class J3_printInNewLine {
+public class Ex_6_J3_printInNewLine {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
