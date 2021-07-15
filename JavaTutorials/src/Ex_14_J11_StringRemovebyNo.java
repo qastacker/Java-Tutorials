@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class J11_StringRemovebyNo {
+public class Ex_14_J11_StringRemovebyNo {
 
 	public static void deleteChar(String s, int index) {
 		if (index < 0 || index > s.length() - 1) {
