@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class J6_Check_Alphabet_orNot {
+public class Ex_9_J6_Check_Alphabet_orNot {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) { // TODO Auto-generated method stub
