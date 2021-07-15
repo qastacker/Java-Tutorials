@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class J5_SqlQuery_RandomNo {
+public class Ex_8_J5_SqlQuery_RandomNo {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
