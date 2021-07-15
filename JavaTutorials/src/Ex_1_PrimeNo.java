@@ -24,7 +24,7 @@ public class Ex_1_PrimeNo {
 		for (int j = 2; j <= Math.sqrt(i); j++) {
 			if (i % j == 0) {
 				return false;
-			}
+			} 
 		}
 		return true;
 	}
