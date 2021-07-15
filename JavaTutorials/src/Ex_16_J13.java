@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class J13 {
+public class Ex_16_J13 {
 
 	@SuppressWarnings({ "resource" })
 	public static void main(String[] args) {
