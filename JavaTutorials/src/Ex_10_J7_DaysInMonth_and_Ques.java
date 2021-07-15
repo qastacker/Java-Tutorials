@@ -66,13 +66,13 @@ public class J7_DaysInMonth_and_Ques{
 	 * so it more easier than any other shapes
 	 * 
 	 * 7) Is it better to be perfect and late, or good and on time?
-	 * As a general rule, managers prefer “good and on time”, 
-	 * as they don’t appreciate work to stay pending because of the employees’ need for perfection
+	 * As a general rule, managers prefer â€œgood and on timeâ€, 
+	 * as they donâ€™t appreciate work to stay pending because of the employeesâ€™ need for perfection
 	 * 
 	 * 8) Describe a bad experience you had working with your ex-employer
 	 * 	 Never bad-mouth previous colleagues and ex-employees. 
 	 * 	 Instead of focusing on the details of the incident, put more emphasis on the part where you managed to make him see your point-of-view.
-	 * 	 For example : “They were thinking from a different point of view, but in the end, they managed to understand my concerns as well.”
+	 * 	 For example : â€œThey were thinking from a different point of view, but in the end, they managed to understand my concerns as well.â€
 	 * **/
 }
 
