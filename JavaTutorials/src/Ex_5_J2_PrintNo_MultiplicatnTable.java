@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
-public class J2_PrintNo_MultiplicatnTable {
+public class Ex_5_J2_PrintNo_MultiplicatnTable {
 
 	@SuppressWarnings("resource")
 	public static void main(String args[]) {
